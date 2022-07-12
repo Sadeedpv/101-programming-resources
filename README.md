@@ -112,6 +112,10 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |10|[Sololearn](https://www.sololearn.com/blog)|
 |11|[W3Schools](https://www.w3schools.com/)|
 
+## LICENSE
+
+#### The project is licensed under MIT ![license-MIT](https://img.shields.io/badge/license-MIT-yellow)
+
 
 ## Conclusion
 
