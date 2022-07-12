@@ -114,7 +114,8 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 
 ## LICENSE
 
-#### The project is licensed under MIT ![license-MIT](https://img.shields.io/badge/license-MIT-yellow)
+![license-MIT](https://img.shields.io/badge/license-MIT-yellow) <br />
+#### The project is licensed under MIT 
 
 
 ## Conclusion
