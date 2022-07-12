@@ -44,25 +44,25 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |23|SQL Murder Mystery|SQL Murder Mystery is great for both beginners and experienced SQL developers. Strengthen your SQL and problem solving skills by trying to track down the killer in this murder mystery.The game uses SQLite and you will first have to get acquainted with the database structure before starting the game.|
 |24|Untrusted|Untrusted is an adventure game where you can test your JavaScript and problem solving skills.|
 |25|CheckiO|CheckiO is a strategy game where you can learn TypeScript or Python through a series of challenges.|
-|26|W3Schools|W3Schools is a freemium educational website for learning coding online with real time examples|
+|26|W3Schools|W3Schools is a freemium educational website for learning coding online with real time examples.|
 |27|GeeksforGeeks|A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles and is a platform to practice programming problems.|
 |28|tutsplus|Discover free how-to tutorials and video courses with tutsplus. Build an app, create a website, or learn a new skill.|
 |29|Sololearn|Get access to courses designed by experts with real-world practice.|
 |30|developer.mozilla.org|MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is a documentation repository and learning resource for web developers. It was started by Mozilla in 2005 as a unified place for documentation about open web standards, Mozilla's own projects, and developer guides.|
 |31|javascript|As the name suggests, it's a free guide for programmers who wish to learn Javascript |
-|32|Studytonight.com|Best place to learn Engineering subjects like Core Java, C++, DBMS, Data Structures etc through Hand-written simple Tutorial, Tests and Video tutorials|
+|32|Studytonight.com|Best place to learn Engineering subjects like Core Java, C++, DBMS, Data Structures etc through Hand-written simple Tutorial, Tests and Video tutorials.|
 |33|programiz|Learn to code in Python, C/C++, Java, and other popular programming languages with their easy to follow tutorials, examples, online compiler and references.|
 |34|Ruby warrior|If you want to learn Ruby, then Ruby Warrior is the game for you. There are beginner and intermediate tracks to suit your skill level. The lessons start out easy and go from there.|
 |35|Github| Yes, you heard that right! Github is the best place to start your coding journey. You can read hundreds of source code written by other programmers in Github. You can also find lots of challenges and resources to empower your coding skills. |
 |36|Codepen|CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, called "pens," and test them.|
 |37|Swift Playgrounds|Swift is a programming language created by Apple and used by professionals to build apps for use on Apple devices. With the Swift Playgrounds app, students are able to learn Swift through an engaging and fun set of challenges.|
 |38|Google|If you haven't already, you've probably heard a developer jokingly refer to themselves as a professional Googler. While exaggerated, the saying holds a tidbit of truth. Google is a valuable resource for programmers, and many coding problems can be solved with a simple search.|
-|39|Simplilearn|Simplilearn is the popular online Bootcamp & online courses learning platform|
-|40|SQLZoo|SQLZoo is the go-to online resource for learning everything SQL. From SQLZoo, you can learn about SQL server, Oracle, MySQL, DB2, and PostgresSQL. Learn from various interactive tutorials and reference pieces and test your new skills with assessments|
-|41|Code School|If you’re not exactly sure where to start, Code School offers different paths that you can follow to build specific skills. If you’re ready to just dive right in, you can also select courses from the full library and most of the basic level courses are 100% free|
+|39|Simplilearn|Simplilearn is the popular online Bootcamp & online courses learning platform.|
+|40|SQLZoo|SQLZoo is the go-to online resource for learning everything SQL. From SQLZoo, you can learn about SQL server, Oracle, MySQL, DB2, and PostgresSQL. Learn from various interactive tutorials and reference pieces and test your new skills with assessments.|
+|41|Code School|If you’re not exactly sure where to start, Code School offers different paths that you can follow to build specific skills. If you’re ready to just dive right in, you can also select courses from the full library and most of the basic level courses are 100% free.|
 |42|Code Avengers|If you want to learn how to build a website, apps, or games, Code Avengers is the site for you. Code Avengers has over 100 hours of courses teaching you how to build websites in HTML & CSS and games or apps in JavaScript.|
-|43|Project Euler| Project Euler is a website dedicated to a series of computational problems intended to be solved with computer programs. The project attracts graduates and students interested in mathematics and computer programmings|
-|44|Django girls|Django Girls is an international non-profit organization created to inspire women from all backgrounds to get interested in technology and to become programmers, offering a safe and friendly environment|
+|43|Project Euler| Project Euler is a website dedicated to a series of computational problems intended to be solved with computer programs. The project attracts graduates and students interested in mathematics and computer programmings.|
+|44|Django girls|Django Girls is an international non-profit organization created to inspire women from all backgrounds to get interested in technology and to become programmers, offering a safe and friendly environment.|
 |45|MotherCoders|MotherCoders is a nonprofit organization whose mission is to help women with kids on-ramp to careers in tech so they can thrive in a digital economy.|
 |46|Girls Who Code |Girls Who Code is a nonprofit organization which aims to support and increase the number of women in computer science by equipping young women with the necessary computing skills to pursue 21st-century opportunities.|
 |47|Pyladies|PyLadies is an international mentorship group which focuses on helping more women become active participants in the Python open-source community.|
@@ -74,6 +74,20 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 
 
 ### YouTube Channels
+|Id| Channel Name| Description |
+|--|----------|-------------|
+|1|[freeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured)|Their videos are long-form, in-depth content about various programming languages with playlists for beginners and experts. Their videos ranging from three hours to a few minutes cover traditional and modern technologies like HTML, JavaScript, PHP, CSS, ML, data science and Python. Their YouTube channel is very popular with over 5 million students and several playlists.|
+|2|[programming-with-mosh](https://www.youtube.com/c/programmingwithmosh/featured)|Mosh Hamedani aims to train coders and software engineers to be the talent companies want to hire.|
+|3|[Traversy-Media](https://www.youtube.com/c/TraversyMedia/featured)|The channel created by Brad Traversy covers programming technologies like HTML, CSS and JavaScript, frontend frameworks like React and Vue, and backend concepts such as Node.js, Python and PHP.|
+|4|[fireship.io](https://www.youtube.com/c/fireship/featured)|Are you exhausted of watching 6 hour tutorial videos on YouTube? Then this channel is for you. He explains the most complex programming concepts in 5 minutes.|
+|5|[Kevin-Powell](https://www.youtube.com/c/kevin-powell/featured)|Do you hate CSS? Then this guy will definitely make you fall in love with CSS!|
+|6|[Web-dev-simplified](https://www.youtube.com/c/WebDevSimplified/features)|As the name suggests, this channel aims to simplify web development. |
+|7|[Dev-ed](https://www.youtube.com/c/deved/featured)|Want to learn cool javascript animations? Then, you are looking at the right place!|
+|8|[The-Net-Ninja](https://www.youtube.com/c/TheNetNinja/featured)|The Net Ninja is one of the best YouTube channels to learn more about web development and programming.|
+|9|[Treehouse](https://www.youtube.com/c/gotreehouse/featured)|Team Treehouse is an online learning platform catered towards beginners enthusiastic about building a career in coding. |
+|10|[Dev-Tips](https://www.youtube.com/c/DevTipsForDesigners/featured)|DevTips is a weekly show for web designers and coders with over 200 videos on CSS, HTML, Docker, Kubernetes, GitHub and more.|
+|11|[DesignCourse.com](https://www.youtube.com/c/designcourse/featured)|For a developer, it's important to have basic knowledge on design concepts. This channel helps you to improve you design skills.|
+
 
 ### Must Follow blogs
 
@@ -88,8 +102,8 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |7|[codinghorror](https://blog.codinghorror.com/)|
 |8|[webdesignerdepot](https://www.webdesignerdepot.com/)|
 |9|[hackernoon](https://hackernoon.com/)|
-||[]()|
-||[]()|
+|10|[Sololearn](https://www.sololearn.com/blog)|
+|11|[W3Schools](https://www.w3schools.com/)|
 
 
 ## Conclusion
