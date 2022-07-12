@@ -6,6 +6,11 @@ Get 101 completely free programming resources that could potentially enhance you
 
 ![open-source](https://img.shields.io/badge/Open%20source-Welcome-lightgrey)
 
+## [Table of contents]()
+- [Programming-resources](#programming-resources)
+    - [YouTube videos](#youtube-videos)
+    - [Blogs](#blogs)
+
 ## Contribute
 Do you run any non-profit organizations that provide coding lessons to learners around the world ? 🚀 <br />
 
@@ -15,7 +20,7 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 
 #### Then add them to the list by ![fork](https://img.shields.io/badge/-forking-brightgreen) this repository 
 
-## Free Programming resources
+## Free Programming resources <a name='programming-resources'></a>
 
 |Id| Resources| Description |
 |--|----------|-------------|
@@ -73,7 +78,7 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 
 
 
-### YouTube Channels
+### YouTube Channels <a name='youtube-videos'></a>
 |Id| Channel Name| Description |
 |--|----------|-------------|
 |1|[freeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured)|Their videos are long-form, in-depth content about various programming languages with playlists for beginners and experts. Their videos ranging from three hours to a few minutes cover traditional and modern technologies like HTML, JavaScript, PHP, CSS, ML, data science and Python. Their YouTube channel is very popular with over 5 million students and several playlists.|
@@ -87,9 +92,11 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |9|[Treehouse](https://www.youtube.com/c/gotreehouse/featured)|Team Treehouse is an online learning platform catered towards beginners enthusiastic about building a career in coding. |
 |10|[Dev-Tips](https://www.youtube.com/c/DevTipsForDesigners/featured)|DevTips is a weekly show for web designers and coders with over 200 videos on CSS, HTML, Docker, Kubernetes, GitHub and more.|
 |11|[DesignCourse.com](https://www.youtube.com/c/designcourse/featured)|For a developer, it's important to have basic knowledge on design concepts. This channel helps you to improve you design skills.|
+|12|[Code-with-Ania-Kubow](https://www.youtube.com/aniakubow/featured)|Do you love games? Her videos help you to develop more games by following step by step tutorials (javascript)|
+|13|[TheNewBoston](https://www.youtube.com/user/thenewboston/featured)|Their videos cover a range of topics from modern blockchain, docker and discord to SEO, Python, Node.js and Gulp.js. Bucky Roberts is an IT graduate and teaches the lessons easy to understand, making the channel a perfect resource for beginner programmers. |
 
 
-### Must Follow blogs
+### Must Follow blogs <a name='blogs'></a>
 
 |Id| Blogs|
 |--|----------|
