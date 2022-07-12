@@ -46,15 +46,55 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |25|CheckiO|CheckiO is a strategy game where you can learn TypeScript or Python through a series of challenges.|
 |26|W3Schools|W3Schools is a freemium educational website for learning coding online with real time examples|
 |27|GeeksforGeeks|A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles and is a platform to practice programming problems.|
+|28|tutsplus|Discover free how-to tutorials and video courses with tutsplus. Build an app, create a website, or learn a new skill.|
+|29|Sololearn|Get access to courses designed by experts with real-world practice.|
+|30|developer.mozilla.org|MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is a documentation repository and learning resource for web developers. It was started by Mozilla in 2005 as a unified place for documentation about open web standards, Mozilla's own projects, and developer guides.|
+|31|javascript|As the name suggests, it's a free guide for programmers who wish to learn Javascript |
+|32|Studytonight.com|Best place to learn Engineering subjects like Core Java, C++, DBMS, Data Structures etc through Hand-written simple Tutorial, Tests and Video tutorials|
+|33|programiz|Learn to code in Python, C/C++, Java, and other popular programming languages with their easy to follow tutorials, examples, online compiler and references.|
+|34|Ruby warrior|If you want to learn Ruby, then Ruby Warrior is the game for you. There are beginner and intermediate tracks to suit your skill level. The lessons start out easy and go from there.|
+|35|Github| Yes, you heard that right! Github is the best place to start your coding journey. You can read hundreds of source code written by other programmers in Github. You can also find lots of challenges and resources to empower your coding skills. |
+|36|Codepen|CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, called "pens," and test them.|
+|37|Swift Playgrounds|Swift is a programming language created by Apple and used by professionals to build apps for use on Apple devices. With the Swift Playgrounds app, students are able to learn Swift through an engaging and fun set of challenges.|
+|38|Google|If you haven't already, you've probably heard a developer jokingly refer to themselves as a professional Googler. While exaggerated, the saying holds a tidbit of truth. Google is a valuable resource for programmers, and many coding problems can be solved with a simple search.|
+|39|Simplilearn|Simplilearn is the popular online Bootcamp & online courses learning platform|
+|40|SQLZoo|SQLZoo is the go-to online resource for learning everything SQL. From SQLZoo, you can learn about SQL server, Oracle, MySQL, DB2, and PostgresSQL. Learn from various interactive tutorials and reference pieces and test your new skills with assessments|
+|41|Code School|If you’re not exactly sure where to start, Code School offers different paths that you can follow to build specific skills. If you’re ready to just dive right in, you can also select courses from the full library and most of the basic level courses are 100% free|
+|42|Code Avengers|If you want to learn how to build a website, apps, or games, Code Avengers is the site for you. Code Avengers has over 100 hours of courses teaching you how to build websites in HTML & CSS and games or apps in JavaScript.|
+|43|Project Euler| Project Euler is a website dedicated to a series of computational problems intended to be solved with computer programs. The project attracts graduates and students interested in mathematics and computer programmings|
+|44|Django girls|Django Girls is an international non-profit organization created to inspire women from all backgrounds to get interested in technology and to become programmers, offering a safe and friendly environment|
+|45|MotherCoders|MotherCoders is a nonprofit organization whose mission is to help women with kids on-ramp to careers in tech so they can thrive in a digital economy.|
+|46|Girls Who Code |Girls Who Code is a nonprofit organization which aims to support and increase the number of women in computer science by equipping young women with the necessary computing skills to pursue 21st-century opportunities.|
+|47|Pyladies|PyLadies is an international mentorship group which focuses on helping more women become active participants in the Python open-source community.|
+|48|Railsgirls|They are aiming to give tools and a community for women to understand technology and to build their ideas|
+|49|CodeNewbie|One of the most supportive community of programmers.|
+|50|MIT App Inventor|MIT App Inventor is a visual programming environment that allows all ages of learners to build fully functional apps for Android and iOS smartphones and tablets.|
+|51|codegrepper.com| It is the ultimate query and answer system for programmers.|
+
 
 
 ### YouTube Channels
 
 ### Must Follow blogs
 
+|Id| Blogs|
+|--|----------|
+|1|[Dev.to](https://dev.to/)|
+|2|[CSS-tricks](https://css-tricks.com/)|
+|3|[Medium](https://medium.com/)|
+|4|[freeCodeCamp](https://www.freecodecamp.org/news/tag/blog/)|
+|5|[StackOverflow.blog](https://stackoverflow.blog/)|
+|6|[RealPython](https://realpython.com/)|
+|7|[codinghorror](https://blog.codinghorror.com/)|
+|8|[webdesignerdepot](https://www.webdesignerdepot.com/)|
+|9|[hackernoon](https://hackernoon.com/)|
+||[]()|
+||[]()|
+
+
 ## Conclusion
 
 #### At the end of the day, it doesn't matter how many resources you have. It's all about understanding the concepts and learning from your mistakes <br />
 If you enjoyed the repo, don't hesitate to give it a star 🌟<br />
-Share it to your friends and Together we can make the community grow better ☕<br />
+Share it to your friends and together we can make the community grow better ☕<br />
 
