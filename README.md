@@ -94,6 +94,7 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |11|[DesignCourse.com](https://www.youtube.com/c/designcourse/featured)|For a developer, it's important to have basic knowledge on design concepts. This channel helps you to improve you design skills.|
 |12|[Code-with-Ania-Kubow](https://www.youtube.com/aniakubow/featured)|Do you love games? Her videos help you to develop more games by following step by step tutorials (javascript)|
 |13|[TheNewBoston](https://www.youtube.com/user/thenewboston/featured)|Their videos cover a range of topics from modern blockchain, docker and discord to SEO, Python, Node.js and Gulp.js. Bucky Roberts is an IT graduate and teaches the lessons easy to understand, making the channel a perfect resource for beginner programmers. |
+|14|[Online-tutorials](https://www.youtube.com/c/OnlineTutorials4Designers/featured)|This channel helps you to dive deep into awesome css animations.|
 
 
 ### Must Follow blogs <a name='blogs'></a>
