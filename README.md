@@ -18,7 +18,9 @@ Do you have a youtube channel that helps others to learn programming? 💥 <br /
 
 Do you write blogs to support programmers around the globe? ❤️ <br />
 
-#### Then add them to the list by ![fork](https://img.shields.io/badge/-forking-brightgreen) this repository 
+#### Then add them to the list by ![fork](https://img.shields.io/badge/-forking-brightgreen) this repository <br />
+
+##### Read the contributing guidelines [here](https://github.com/Sadeedpv/101-programming-resources/blob/main/CONTRIBUTING.MD)
 
 ## Free Programming resources <a name='programming-resources'></a>
 
