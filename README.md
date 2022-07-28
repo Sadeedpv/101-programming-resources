@@ -100,6 +100,7 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |15|[Florin-Pop](https://www.youtube.com/c/Florinpop/featured)| He'll teach you a lot about web development(HTML,CSS, Javascript, Reactjs, Nodejs, APIs and all other cool stuffs 😎)|
 |16|[ProgramWithErik](https://www.youtube.com/c/programwitherik/featured)|If you want coding tutorials and advices, then visit this channel|
 |17|[CSDojo](https://www.youtube.com/c/CSDojo/featured)|He helps to your crack DSA(Data structure and Algorithm) problems & questions and ace the coding interviews.|
+|18| [CleverProgrammer](https://www.youtube.com/c/CleverProgrammer/featured) | Want to build real-world projects and earn more depth in your skills? Then, click on the link right now!|
 
 
 ### Must Follow blogs <a name='blogs'></a>
