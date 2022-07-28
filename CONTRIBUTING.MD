@@ -10,6 +10,7 @@ Do you run any non-profit organizations that provide coding tutorials online? / 
 - Don't add things that are not related to programming in any way.
 - Feel free to correct grammatic errors and typos
 - While adding the description of your project, don't use first tense <br /> For example: <br /> "I provide tutorial videos on programming topics" ❌ <br /> "They provide tutorial videos on programming topics" ✅
+- Make sure the content and the resources published are available in English.
 
 ## Code of Conduct
 ### Our Pledge
