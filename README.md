@@ -101,7 +101,8 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |16|[ProgramWithErik](https://www.youtube.com/c/programwitherik/featured)|If you want coding tutorials and advices, then visit this channel|
 |17|[CSDojo](https://www.youtube.com/c/CSDojo/featured)|He helps to your crack DSA(Data structure and Algorithm) problems & questions and ace the coding interviews.|
 |18| [CleverProgrammer](https://www.youtube.com/c/CleverProgrammer/featured) | Want to build real-world projects and earn more depth in your skills? Then, click on the link right now!|
-|19|[codedamn](https://www.youtube.com/c/codedamn)| Helps you to enhance your programming skills|
+|19| [JavascriptMastery](https://www.youtube.com/c/JavaScriptMastery) | Launch your development career with project-based coaching - showcase your skills with practical development experience and land the coding career of your dreams |
+|20| [codedamn](https://www.youtube.com/c/codedamn) | Helps you to enhance your programming skills|
 
 
 ### Must Follow blogs <a name='blogs'></a>
