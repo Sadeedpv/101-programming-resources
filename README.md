@@ -2,14 +2,14 @@
 
 ![Hero Image](./coding.png)
 
-Get 101 completely free programming resources that could potentially enhance your coding skills <br />
+Get 101 completely free programming resources that could potentially enhance your coding skills.<br />
 
 ![open-source](https://img.shields.io/badge/Open%20source-Welcome-lightgrey)
 
 ## [Table of contents]()
 - [Programming-resources](#programming-resources)
-    - [YouTube videos](#youtube-videos)
-    - [Blogs](#blogs)
+- [YouTube videos](#youtube-videos)
+- [Blogs](#blogs)
 
 ## Contribute
 Do you run any non-profit organizations that provide coding lessons to learners around the world ? 🚀 <br />
@@ -20,7 +20,7 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 
 #### Then add them to the list by ![fork](https://img.shields.io/badge/-forking-brightgreen) this repository <br />
 
-##### Read the contributing guidelines [here](https://github.com/Sadeedpv/101-programming-resources/blob/main/CONTRIBUTING.MD)
+#### Read the contributing guidelines [here](https://github.com/Sadeedpv/101-programming-resources/blob/main/CONTRIBUTING.MD)
 
 ## Free Programming resources <a name='programming-resources'></a>
 
@@ -80,7 +80,7 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 
 
 
-### YouTube Channels <a name='youtube-videos'></a>
+## YouTube Channels <a name='youtube-videos'></a>
 |Id| Channel Name| Description |
 |--|----------|-------------|
 |1|[freeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured)|Their videos are long-form, in-depth content about various programming languages with playlists for beginners and experts. Their videos ranging from three hours to a few minutes cover traditional and modern technologies like HTML, JavaScript, PHP, CSS, ML, data science and Python. Their YouTube channel is very popular with over 5 million students and several playlists.|
@@ -106,21 +106,21 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |21| [codewithharry](https://www.youtube.com/c/CodeWithHarry) | There are lot of coding tutorials and development advices are there.|
 
 
-### Must Follow blogs <a name='blogs'></a>
+## Must Follow blogs <a name='blogs'></a>
 
-|Id| Blogs|
-|--|----------|
-|1|[Dev.to](https://dev.to/)|
-|2|[CSS-tricks](https://css-tricks.com/)|
-|3|[Medium](https://medium.com/)|
-|4|[freeCodeCamp](https://www.freecodecamp.org/news/tag/blog/)|
-|5|[StackOverflow.blog](https://stackoverflow.blog/)|
-|6|[RealPython](https://realpython.com/)|
-|7|[codinghorror](https://blog.codinghorror.com/)|
-|8|[webdesignerdepot](https://www.webdesignerdepot.com/)|
-|9|[hackernoon](https://hackernoon.com/)|
-|10|[Sololearn](https://www.sololearn.com/blog)|
-|11|[W3Schools](https://www.w3schools.com/)|
+|Id| Blogs| Description |
+|--|----------|-------------|
+|1|[Dev.to](https://dev.to/)|DEV Community is a community of 938,136 amazing developers. We're a place where coders share, stay up-to-date and grow their careers.|
+|2|[CSS-tricks](https://css-tricks.com/)|Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.|
+|3|[Medium](https://medium.com/)||
+|4|[freeCodeCamp](https://www.freecodecamp.org/news/tag/blog/)||
+|5|[StackOverflow.blog](https://stackoverflow.blog/)||
+|6|[RealPython](https://realpython.com/)||
+|7|[codinghorror](https://blog.codinghorror.com/)||
+|8|[webdesignerdepot](https://www.webdesignerdepot.com/)||
+|9|[hackernoon](https://hackernoon.com/)||
+|10|[Sololearn](https://www.sololearn.com/blog)||
+|11|[W3Schools](https://www.w3schools.com/)|W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references.|
 
 ## LICENSE
 
@@ -131,6 +131,5 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 ## Conclusion
 
 #### At the end of the day, it doesn't matter how many resources you have. It's all about understanding the concepts and learning from your mistakes <br />
-If you enjoyed the repo, don't hesitate to give it a star 🌟<br />
-Share it to your friends and together we can make the community grow better ☕<br />
+If you enjoyed the repo, don't hesitate to give it a star 🌟 Share it to your friends and together we can make the community grow better ☕<br />
 
