@@ -119,7 +119,7 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |7|[codinghorror](https://blog.codinghorror.com/)||
 |8|[webdesignerdepot](https://www.webdesignerdepot.com/)||
 |9|[hackernoon](https://hackernoon.com/)||
-|10|[Sololearn](https://www.sololearn.com/blog)||
+|10|[Sololearn](https://www.sololearn.com/blog)|SoloLearn is a platform where we can practice programming languages in module way and it opens the community to interact ach other to gain and share knowledge. Also it is providing the blogs in a consise manner after a couple of reviews.|
 |11|[W3Schools](https://www.w3schools.com/)|W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references.|
 
 ## LICENSE
