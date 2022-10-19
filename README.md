@@ -104,6 +104,8 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |19| [JavascriptMastery](https://www.youtube.com/c/JavaScriptMastery) | Launch your development career with project-based coaching - showcase your skills with practical development experience and land the coding career of your dreams |
 |20| [codedamn](https://www.youtube.com/c/codedamn) | Helps you to enhance your programming skills|
 |21| [codewithharry](https://www.youtube.com/c/CodeWithHarry) | There are lot of coding tutorials and development advices are there.|
+|22| [Beyond Fireship](https://www.youtube.com/channel/UC2Xd-TjJByJyK2w1zNwY0zQ) | Fireship.io's secondary channel with more in-depth content.|
+|23| [Dev Ed](https://www.youtube.com/c/DevEd) | Cuorses and tips for web development - specially React and CSS.|
 
 
 ## Must Follow blogs <a name='blogs'></a>
@@ -121,6 +123,7 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |9|[hackernoon](https://hackernoon.com/)||
 |10|[Sololearn](https://www.sololearn.com/blog)|SoloLearn is a platform where we can practice programming languages in module way and it opens the community to interact ach other to gain and share knowledge. Also it is providing the blogs in a consise manner after a couple of reviews.|
 |11|[W3Schools](https://www.w3schools.com/)|W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references.|
+|12|[Addy Osmani's blog](https://addyosmani.com/blog/)|Addy is an Engineering Manager at Google and writes about diverse topics on web development.|
 
 ## LICENSE
 
