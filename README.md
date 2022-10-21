@@ -105,8 +105,6 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |20| [codedamn](https://www.youtube.com/c/codedamn) | Helps you to enhance your programming skills|
 |21| [codewithharry](https://www.youtube.com/c/CodeWithHarry) | There are lot of coding tutorials and development advices are there.|
 |22| [Beyond Fireship](https://www.youtube.com/channel/UC2Xd-TjJByJyK2w1zNwY0zQ) | Fireship.io's secondary channel with more in-depth content.|
-|23| [Dev Ed](https://www.youtube.com/c/DevEd) | Cuorses and tips for web development - specially React and CSS.|
-
 
 ## Must Follow blogs <a name='blogs'></a>
 
