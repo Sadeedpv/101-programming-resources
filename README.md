@@ -79,6 +79,7 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 |51|codegrepper.com| It is the ultimate query and answer system for programmers.|
 |52|visualgo.net/en| Visualising data structures and algorithms through animation.|
 
+|53|[The Concise TypeScript Book](https://github.com/gibbok/typescript-book)|A free and open-source TypeScript book covering fundamentals through advanced concepts, including TypeScript 7.|
 
 
 ## YouTube Channels <a name='youtube-videos'></a>
@@ -134,4 +135,3 @@ Do you write blogs to support programmers around the globe? ❤️ <br />
 
 #### At the end of the day, it doesn't matter how many resources you have. It's all about understanding the concepts and learning from your mistakes <br />
 If you enjoyed the repo, don't hesitate to give it a star 🌟 Share it to your friends and together we can make the community grow better ☕<br />
-
